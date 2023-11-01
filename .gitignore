@@ -23,3 +23,7 @@ detector/YOLOV7/.git.bk
 *.conv*
 *.pyc
 configs/yolov5-check.yaml
+*.webm
+
+MOT16-04-raw.webm.*
+detector/YOLOv3/weight/*
